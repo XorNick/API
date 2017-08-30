@@ -1,1 +1,26 @@
-/bin/
+# maven
+/build.xml
+
+# more maven
+/target
+/dependency-reduced-pom.xml
+*/target
+*/dependency-reduced-pom.xml
+
+# vim
+.*.sw[a-p]
+
+# various other potential build files
+/build
+/bin
+/dist
+/manifest.mf
+
+# Mac filesystem dust
+/.DS_Store
+
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/

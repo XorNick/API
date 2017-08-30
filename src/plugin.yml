@@ -1,4 +1,0 @@
-name: WaffleAPI
-version: 1.0
-description: basic api
-main: me.waffle.waffle.api.API
